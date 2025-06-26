@@ -1,6 +1,26 @@
 body{
-background-color: aquamarine;
-color: beige;
+     background-color: rgb(2, 2, 68); /*cor do fundo */
+     color: azure; /* cor da letra, cor da fonte */
+     margin: 0px;
+}
 
+header{
+     border-bottom: solid 2px rgb(70, 143, 239);
+     padding: 20px;
+     font-size: 32px;
+     color: cyan;
+}
+keep
+Fixada
+h1{
+     color: rgb(135, 206, 241);
+     font-family: sans-serif;
+}
+
+p{
+     /* text-align: center; */
+     color: rgb(241, 151, 235);
+     font-style: italic;
+}
 
 }
